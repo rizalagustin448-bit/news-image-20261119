@@ -102,19 +102,25 @@ text(MX1 - 12, MY0 + 8,
      f(FR, 12), GREY, anchor="ra")
 
 # ---------------- story columns ----------------
-stories_cols = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "stories_cols.json")))
+# Balanced columns: longest stories spread round-robin across the three columns.
+stories = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "stories.json")))
 colx = [30, 348, 666]
 COLW = 306
 y0 = 482
 d.line([30, y0 - 10, W - 30, y0 - 10], fill=INK, width=2)
 
-columns = stories_cols
+columns = [[], [], []]
+loads = [0.0, 0.0, 0.0]
+for s in sorted(stories, key=lambda s: len(s[2]), reverse=True):
+    i = loads.index(min(loads))
+    columns[i].append(s)
+    loads[i] += len(s[2])
 
 maxbottom = 0
 for ci, col in enumerate(columns):
     cx = colx[ci]
     yy = y0 + 2
-    for tag, loc, lon, lat, headline, src in col:
+    for tag, loc, headline, src in col:
         text(cx, yy, tag + " · " + loc, f(FB, 12), RED if ci != 1 else BLUE)
         yy += 13
         yy = wrap(cx, yy, headline, f(FR, 12), COLW, 13.5, maxlines=2)
