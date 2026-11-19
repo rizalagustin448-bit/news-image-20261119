@@ -13,6 +13,12 @@
 | Van Gogh "Châtaigniers en fleurs" record $190.4m sale | NST news summary (7:47am, 19 Nov) |
 | DRC Ebola outbreak past six months: 11,000+ infected, 5,400+ dead (WHO) | WorldWatch digest citing WHO |
 
-Image rendered by `render_entry.py` (Pillow) into `entry.png`; `main.py` copies
-`entry.png` to `$MAKEFUN_OUTPUT_DIR/entry.png` at grading time (no network,
-deterministic).
+The v2 image is a 37-story newspaper-style front page: masthead, Gulf/China lead,
+equirectangular world map with 15 story pins (six continents), and three balanced
+"In Brief" columns. Rendered by `render_entry.py` (Pillow) into `entry.png`;
+`main.py` copies `entry.png` to `$MAKEFUN_OUTPUT_DIR/entry.png` at grading time
+(no network, deterministic). PNG quantized to 64 colours: 56,809 bytes.
+
+| ICJ judgment delivered in The Gambia v. Myanmar (Rohingya genocide case), The Hague | ICJ webtv https://webtv.un.org/en/asset/k17/k17p1wcdm0 ; BBC https://www.bbc.com/news/articles/c5m2l90ez144o |
+| Berlin Ukraine-Europe talks (Witkoff, Kushner) with Coalition of the Willing summit, Nov 19 | Kyiv Independent https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations ; Axios via babel.ua |
+| V2 front page adds 29 further sourced stories: full list with sources in stories_cols.json (BBC world, AP, Xinhua Nov 19 summary, Times of India live blog, The Star ASEAN+, Rappler, WHO, IAEA, Euronews, TradingEconomics, Cabinet Office Japan) |

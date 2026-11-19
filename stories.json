@@ -1,0 +1,298 @@
+[
+ [
+  "EUROPE",
+  "Berlin",
+  13.4,
+  52.5,
+  "Witkoff and Kushner join Ukraine-Europe talks as Merz hosts Coalition of the Willing summit",
+  "Kyiv Ind./Axios"
+ ],
+ [
+  "EUROPE",
+  "The Hague",
+  4.3,
+  52.1,
+  "ICJ delivers historic genocide judgment in The Gambia v. Myanmar over Rohingya atrocities",
+  "ICJ/BBC"
+ ],
+ [
+  "EUROPE",
+  "Paris",
+  2.3,
+  48.8,
+  "France moves toward sending soldiers to Ukraine; Lavrov warns of escalation",
+  "AP"
+ ],
+ [
+  "EUROPE",
+  "London",
+  -0.1,
+  51.5,
+  "Grand Theft Auto VI gets UK release after 13-year wait; Van Gogh sells for record $190.4m",
+  "BBC"
+ ],
+ [
+  "EUROPE",
+  "Kyiv",
+  30.5,
+  50.4,
+  "Ukraine fights underground war in Soviet gas pipeline near Kharkiv; two Kyiv bridges bombed",
+  "BBC/Reuters"
+ ],
+ [
+  "RUSSIA",
+  "Moscow",
+  37.6,
+  55.7,
+  "Crimean Bridge attacked again; traffic suspended, Russian official says",
+  "BBC"
+ ],
+ [
+  "RUSSIA",
+  "Siberia",
+  100.0,
+  60.0,
+  "Russian military transport plane crashes in Siberia, killing all 19 aboard",
+  "Reuters"
+ ],
+ [
+  "MIDEAST",
+  "Kuwait City",
+  47.5,
+  29.4,
+  "Iran fires drones at US base in Kuwait after US strike on Qeshm Island; Gulf states intercept",
+  "MEE/AP"
+ ],
+ [
+  "MIDEAST",
+  "Gaza",
+  34.4,
+  31.5,
+  "Israeli troops launch rare ground operation east of Nuseirat, beyond the 'Yellow Line'",
+  "BBC"
+ ],
+ [
+  "MIDEAST",
+  "Tel Aviv",
+  34.8,
+  32.1,
+  "Israel says it killed two Hamas platoon commanders in Gaza airstrikes",
+  "Xinhua"
+ ],
+ [
+  "MIDEAST",
+  "Tehran",
+  51.4,
+  35.7,
+  "Iran's army chief vows 'more crushing' response if US attacks again",
+  "Euronews"
+ ],
+ [
+  "MIDEAST",
+  "Beirut",
+  35.5,
+  33.9,
+  "84 Syrian refugees return from Lebanon in first organized return via reopened crossing",
+  "Xinhua"
+ ],
+ [
+  "MIDEAST",
+  "Sudan",
+  32.5,
+  15.5,
+  "Sudan war: fight for El Fasher continues as famine spreads, UN warns",
+  "UN"
+ ],
+ [
+  "ASIA",
+  "Shenzhen",
+  114.06,
+  22.54,
+  "Trump, Xi, Putin hold first-ever trilateral summit at APEC; nuclear cuts and two wars on agenda",
+  "AP/BBC"
+ ],
+ [
+  "ASIA",
+  "Beijing",
+  116.4,
+  39.9,
+  "China threatens retaliation over new US AI-chip export curbs on Nvidia",
+  "Reuters"
+ ],
+ [
+  "ASIA",
+  "Yongbyon",
+  127.4,
+  39.8,
+  "IAEA: North Korea expands uranium-enrichment plant as weapons-grade output grows",
+  "IAEA/TOI"
+ ],
+ [
+  "ASIA",
+  "Tokyo",
+  139.7,
+  35.7,
+  "Japan's GDP contracts 0.1% annualized \u2014 first drop in four quarters; Takaichi at APEC",
+  "Cabinet Office"
+ ],
+ [
+  "ASIA",
+  "Dhaka",
+  90.4,
+  23.8,
+  "Bangladesh deploys paramilitary force as unrest grows over Hasina's planned return",
+  "The Star/TOI"
+ ],
+ [
+  "ASIA",
+  "Odisha, India",
+  86.0,
+  20.0,
+  "Cyclone Akvan: Odisha districts on red alert as severe storm nears coast",
+  "TOI"
+ ],
+ [
+  "ASIA",
+  "Islamabad",
+  73.0,
+  33.7,
+  "Pakistan test-fires Fatah-3 supersonic cruise missile",
+  "Pakistan Army/TOI"
+ ],
+ [
+  "ASIA",
+  "Manila",
+  121.0,
+  14.6,
+  "ASEAN opens 'progress-based' path for Myanmar's return to the bloc",
+  "Rappler"
+ ],
+ [
+  "AFRICA",
+  "Kinshasa, DRC",
+  23.0,
+  -3.0,
+  "DRC Ebola outbreak passes six months: 11,000+ infected, 5,400+ dead, WHO says",
+  "WHO"
+ ],
+ [
+  "AFRICA",
+  "Freetown",
+  -13.2,
+  8.5,
+  "West Africa Integration summit in Sierra Leone signs four regional agreements",
+  "Xinhua"
+ ],
+ [
+  "AFRICA",
+  "Lobito Corridor",
+  13.0,
+  -11.0,
+  "US-backed mineral highway in DR Congo aims at critical-minerals access",
+  "BBC"
+ ],
+ [
+  "AMERICAS",
+  "Washington",
+  -77.0,
+  38.9,
+  "House Democrats nominate Hakeem Jeffries \u2014 set to be first Black speaker",
+  "AP/Xinhua"
+ ],
+ [
+  "AMERICAS",
+  "Fort Meade",
+  -76.8,
+  39.1,
+  "Classified NSA communications network goes down, defense official says",
+  "AP"
+ ],
+ [
+  "AMERICAS",
+  "Anchorage",
+  -149.5,
+  61.2,
+  "Democrat Mary Peltola wins Alaska Senate race, sealing 56-44 majority",
+  "AP"
+ ],
+ [
+  "AMERICAS",
+  "New York",
+  -74.0,
+  40.7,
+  "Anthropic prices IPO at $83/share ahead of $1.4tn debut as AI selloff rattles investors",
+  "AP/WaPo"
+ ],
+ [
+  "AMERICAS",
+  "Miami",
+  -80.2,
+  25.8,
+  "Florida pastor Sanon convicted over 2021 assassination of Haiti's Mo\u00efse",
+  "AP/TOI"
+ ],
+ [
+  "AMERICAS",
+  "Caracas",
+  -66.9,
+  10.5,
+  "US and Venezuela sign deal restoring military ties; Hegseth visits Caracas",
+  "AP/TOI"
+ ],
+ [
+  "AMERICAS",
+  "Quito",
+  -78.5,
+  -0.2,
+  "Ecuadorian fishermen sue Trump administration over boat strike",
+  "AP"
+ ],
+ [
+  "AMERICAS",
+  "Lima, Peru",
+  -77.0,
+  -12.0,
+  "Pope Leo ends marathon South America tour in Peru, his 'second homeland'",
+  "AP"
+ ],
+ [
+  "OCEANIA",
+  "Canberra",
+  149.1,
+  -35.3,
+  "Quad leaders press Indo-Pacific security push during APEC week",
+  "AFP"
+ ],
+ [
+  "OCEANIA",
+  "Apia",
+  -171.8,
+  -13.8,
+  "Pacific islands warn of rising seas at APEC climate session",
+  "AFP"
+ ],
+ [
+  "GLOBAL",
+  "Markets",
+  0,
+  0,
+  "Oil near three-month lows: Brent under $92 as inventories climb; Fed minutes signal more hikes",
+  "TradingEconomics"
+ ],
+ [
+  "GLOBAL",
+  "Markets",
+  0,
+  0,
+  "Wall Street mixed after Nvidia results; gold sinks over 3% on hawkish Fed",
+  "Reuters"
+ ],
+ [
+  "GLOBAL",
+  "Cambridge, UK",
+  0.1,
+  52.2,
+  "'Human' named Cambridge Dictionary's Word of the Year",
+  "Cambridge"
+ ]
+]
